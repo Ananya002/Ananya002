@@ -1,5 +1,5 @@
     Hey people, I’m Ananya.
-    I’m currently pusuing degree and studying BE in Computer Science and Engineering.
+    I’m currently pursuing my bachelor's and studying Computer Science and Engineering.
 
 <!---
 Ananya002/Ananya002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
