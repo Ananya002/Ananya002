@@ -1,0 +1,7 @@
+    Hey people, I’m Ananya.
+    I’m currently pusuing degree and studying BE in Computer Science and Engineering.
+
+<!---
+Ananya002/Ananya002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
